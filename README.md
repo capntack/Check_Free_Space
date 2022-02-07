@@ -1,6 +1,6 @@
 # Check Free Space PS Script v22.01.1
 
-Check Free Space is a script that allows AD Admins to check the used/max HDD space on all drives on a remote PC on the domain.
+Check Free Space is a PowerShell script that allows AD Admins to check the used/max HDD space on all drives on a remote PC on the domain.
 
 ## Prerequisites
 
